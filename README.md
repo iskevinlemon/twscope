@@ -8,7 +8,7 @@ Library to prevent class bloating for Tailwind CSS
 ## [scope] tag
 ```html
 <!-- Use [scope] tag and assign a bind variable -->
-<button ype="button"
+<button type="button"
   [scope]="submitButton">
   Submit
 </button>
